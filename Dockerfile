@@ -1,4 +1,4 @@
-FROM abzcoding/docker-base
+FROM abzcoding/cuckoo-base
 MAINTAINER Abouzar Parvan <abzcoding@gmail.com>
 
 WORKDIR /tmp/docker/build
